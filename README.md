@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CiaraBrown1596
 - 👀 I’m interested in android and web development
-- 🌱 I’m currently learning javascript, wordpress,
+- 🌱 I’m currently learning javascript, Kotlin,
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me CiaraBrown1596@gmail.com
 
